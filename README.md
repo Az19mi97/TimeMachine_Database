@@ -1,4 +1,4 @@
-# TimeMachine Database Project
+# Project - TimeMachine Database
 
 ## Project Origin and Context
 - Project retrieved from my GitHub account created with my student email, due to loss of access.
